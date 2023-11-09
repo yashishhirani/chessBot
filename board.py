@@ -1,5 +1,6 @@
 import numpy as np
 
+
 # Initialize the chess board using NumPy
 board = np.zeros((8, 8), dtype=object)  # Using 'object' to allow different representation of pieces
 
